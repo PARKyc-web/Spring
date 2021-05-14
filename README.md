@@ -12,12 +12,17 @@
 5. 4
 
 
-How to Check My java(JDK) <br>
-1-1. run cmd(Terminal)  <br>
-1-2. input command "java -version" <br>
 
 
 <ul>
   <h3>Code Envirment</h3>
   <li>Spring code was Edited by IDE IntelliJ</li>
 </ul>
+
+
+
+
+
+How to Check My java(JDK) <br>
+1-1. run cmd(Terminal)  <br>
+1-2. input command "java -version" <br>
