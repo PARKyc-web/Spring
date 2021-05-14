@@ -17,7 +17,7 @@ How to Check My java(JDK) <br>
 1-2. input command "java -version" <br>
 
 
-<ol>
-  Code Envirment 
+<ul>
+  <h3>Code Envirment</h3>
   <li>Spring code was Edited by IDE IntelliJ</li>
-</ol>
+</ul>
