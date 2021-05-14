@@ -1,6 +1,6 @@
 # Spring
 
-<h2> How to Start Spring <h2>
+<h2> How to Start Spring </h2>
 
 1. Check or intstall JAVA(JDK) <br>
 
