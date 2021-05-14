@@ -24,6 +24,6 @@
 
 
 
-How to Check My java(JDK) <br>
+How to check the version of java(JDK) installed<br>
 1-1. run cmd(Terminal)  <br>
 1-2. input command "java -version" <br>
